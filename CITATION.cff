@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Porritt"
+    given-names: "Timothy"
+    affiliation: "Porritt Inc."
+    city: "Salt Lake City"
+    region: "UT"
+    country: "US"
+title: "OpenPSM Benchmark: An Open Evaluation Dataset for AI in Process Safety Management"
+version: "0.1"
+date-released: "2026-04-05"
+url: "https://github.com/freakp69/openpsm-benchmark"
+license: "CC-BY-SA-4.0"
+type: dataset
+keywords:
+  - process safety management
+  - PSM
+  - RAGAGEP
+  - OSHA
+  - artificial intelligence
+  - benchmark
+  - petroleum refining
+  - compliance
+repository-code: "https://github.com/freakp69/openpsm-benchmark"
